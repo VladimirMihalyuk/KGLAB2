@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="metadata-extractor-2.11.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Lab2All/metadata-extractor-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Lab2All/xmpcore-5.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
